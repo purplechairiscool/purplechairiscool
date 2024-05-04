@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(2, 0, 36);
+    color: rgb(209, 148, 50);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.skibidi {
+    text-align: center;
+    justify-content: center;
+}
+button {
+    border-radius: 1vw;
+    background-color: rgb(209, 148, 50);
+    color: rgb(2, 0, 36);
+    border-color: rgb(209, 148, 50);
+}
